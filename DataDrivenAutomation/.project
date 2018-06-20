@@ -24,7 +24,7 @@
 		<link>
 			<name>TestData/TestData.xlsx</name>
 			<type>1</type>
-			<location>E:/Selenium Webdriver Tutorial Basics+Advanced+Interview Guide/TestData.xlsx</location>
+			<location>E:/Selrepository/DataDrivenAutomation/TestData/TestData.xlsx</location>
 		</link>
 	</linkedResources>
 </projectDescription>
